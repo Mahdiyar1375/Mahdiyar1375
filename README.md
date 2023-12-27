@@ -1,6 +1,7 @@
 # Mahdiyar Darvishzade Kakhki
 
-<img src="https://raw.githubusercontent.com/Mahdiyar1375/Mahdiyar1375/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/Mahdiyar1375/Mahdiyar1375/blob/output/github-contribution-grid-snake2.svg)
+
 
 ###
 
