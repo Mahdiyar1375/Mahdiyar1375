@@ -1,11 +1,6 @@
 # Mahdiyar Darvishzade Kakhki
-<img src="https://raw.githubusercontent.com/Mahdiyar1375/Mahdiyar1375/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/Mahdiyar1375/Mahdiyar1375/output/snake.svg" alt="Snake animation" />
-
-###
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdiyar-darvishzadeh-a64567133/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mahdiyar20000@gmail.com)
