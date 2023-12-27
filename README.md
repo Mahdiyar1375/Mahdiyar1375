@@ -3,6 +3,6 @@
 ### 🖥 Skills
 
 - Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
+- Big Data
+- Exploratory Data Analyzer
+- Big Data in Transportation  
