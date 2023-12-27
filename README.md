@@ -21,7 +21,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Power%20Bi-05122A?logo=powerbi) ![Bootstrap](https://img.shields.io/badge/-SciPy-05122A?logo=scipy)
 ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?logo=scikitlearn) ![Bootstrap](https://img.shields.io/badge/-QGIS-05122A?logo=qgis) ![Bootstrap](https://img.shields.io/badge/-Plotly-05122A?logo=plotly) ![Bootstrap](https://img.shields.io/badge/-Keras-05122A?logo=keras)
 
-![snake animation](https://github.com/Mahdiyar1375/Mahdiyar1375/blob/output/github-contribution-grid-snake2.svg)
-
+<img src="https://raw.githubusercontent.com/mmm/mmm/output/snake.svg" alt="Snake animation" />
 
 ###
