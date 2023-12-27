@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mahdiyar20000@gmail.com)
 [![Github](https://img.shields.io/github/followers/Mahdiyar1375?label=Follow&style=social)](https://github.com/Mahdiyar1375)
 
-- 💻 Data Analyst at MCI(Hamrah-e Avval/Larget mobile network operator in Iran)
+- 💻 Data Analyst at MCI(Hamrah-e Avval/larget mobile network operator in Iran)
 - 📫 How to reach me: ext.m.darvishzadeh@mci.ir
 
 ### 🖥 Skills
